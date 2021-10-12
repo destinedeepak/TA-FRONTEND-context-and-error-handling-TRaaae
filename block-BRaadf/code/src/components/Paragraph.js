@@ -1,5 +1,5 @@
 import { useContext } from 'react';
-import { UserContext } from './userContext';
+import { UserContext } from './UserContext';
 function Paragraph() {
   let isDarkMode = useContext(UserContext);
   return (

@@ -1,4 +1,4 @@
-import { UserConsumer } from './userContext';
+import { UserConsumer } from './UserContext';
 
 function Card({ isDarkMode }) {
   return (

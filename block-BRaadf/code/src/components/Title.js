@@ -1,4 +1,4 @@
-import { UserConsumer } from './userContext';
+import { UserConsumer } from './UserContext';
 
 function Title({ text, isDarkMode }) {
   return (

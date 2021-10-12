@@ -2,7 +2,7 @@ import React from 'react';
 import SwitchButton from './Button';
 import Header from './Header';
 import Main from './Main';
-import { UserProvider } from './userContext';
+import { UserProvider } from './UserContext';
 
 class App extends React.Component {
   state = {
